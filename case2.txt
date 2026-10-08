@@ -1,0 +1,8 @@
+4 4
+100
+0 0
+3 3
+E T E E
+E H T E
+E E E E
+T T T X

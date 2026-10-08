@@ -1,0 +1,9 @@
+5 5
+100
+0 0
+0 4
+E E E M X
+E M M E E
+K L T E E
+L T E E E
+T E E E E
